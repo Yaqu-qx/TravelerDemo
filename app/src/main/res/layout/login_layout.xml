@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/login_image" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv_user_head"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:cardCornerRadius="80dp"
+        app:cardElevation="10dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="150dp"
+        app:cardPreventCornerOverlap="true">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/head_image" />
+
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="190dp"
+        android:layout_marginLeft="157dp"
+        android:text="畅游世界"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:textColor="#463434"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="32dp"
+            android:layout_marginTop="130dp"
+            android:text="账号"
+            android:textColor="#5B5B5B"
+            android:textSize="20dp" />
+
+        <EditText
+            android:id="@+id/account"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:paddingLeft="10dp"
+            android:background="@drawable/edittext_border" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="32dp"
+            android:layout_marginTop="20dp"
+            android:text="密码"
+            android:textColor="#5B5B5B"
+            android:textSize="20dp" />
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:paddingLeft="10dp"
+            android:background="@drawable/edittext_border"
+            android:inputType="textPassword" />
+
+        <Button
+            android:id="@+id/buttonLogin"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="100dp"
+            android:text="登录"
+            android:background="#8E7A4F"
+            android:textColor="#FFFFFF"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp">
+
+            <CheckBox
+                android:id="@+id/checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="记住密码" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/sign_new_account"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="105dp"
+            android:layout_marginTop="60dp"
+            android:text="注册新用户"
+            android:textSize="16dp"
+            android:textStyle="bold"
+            android:textColor="#765353"/>
+
+
+
+
+
+    </LinearLayout>
+</FrameLayout>

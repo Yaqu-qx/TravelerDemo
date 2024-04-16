@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#F5F5F5" /> <!-- 设置背景颜色为灰色 -->
+    <stroke
+        android:width="2dp"
+        android:color="#3CAEA9" />
+    <corners android:radius="50dp" /> <!-- 设置圆角的半径 -->
+</shape>

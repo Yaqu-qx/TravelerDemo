@@ -1,0 +1,15 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--阴影-->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#18282828" />
+        </shape>
+    </item>
+    <!--前景-->
+    <item
+        android:bottom="5dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/white"/>
+        </shape>
+    </item>
+</layer-list>

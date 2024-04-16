@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="计划发布"
+        android:textSize="40dp"
+        android:textColor="#262C44"
+        android:textStyle="bold"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="活动名称" />
+
+        <EditText
+            android:id="@+id/et_name"
+            android:layout_height="40dp"
+            android:padding="5dp"
+            android:maxLines="1"
+            android:background="@drawable/edittext_border_toggle"
+            android:layout_width="match_parent" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="活动描述" />
+
+        <EditText
+            android:id="@+id/et_describe"
+            android:layout_width="match_parent"
+            android:gravity="left"
+            android:background="@drawable/edittext_border_toggle"
+            android:layout_height="100dp"
+            android:padding="5dp"
+            android:layout_marginTop="5dp" />
+    </LinearLayout>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="280dp"
+        android:layout_gravity="bottom"
+        android:background="@color/blue_700"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:onClick="save"
+        android:text="修改" />
+
+</LinearLayout>

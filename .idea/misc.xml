@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/drawable/bnt_send.xml" value="0.1581196581196581" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/drawable/btn_send.xml" value="0.2640874684608915" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/drawable/btn_toggle_style.xml" value="0.1581196581196581" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/drawable/buy_button.xml" value="0.1581196581196581" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/drawable/circle_background.xml" value="0.1581196581196581" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/drawable/circle_border_shape.xml" value="0.1581196581196581" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/drawable/edit_text_bg.xml" value="0.1581196581196581" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/drawable/edit_text_bg_focus.xml" value="0.1581196581196581" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/drawable/edittext_border_toggle.xml" value="0.1581196581196581" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/drawable/rounded_border.xml" value="0.1581196581196581" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/layout/activity_add.xml" value="0.15555555555555556" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/layout/activity_edit_plan.xml" value="0.14145299145299145" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/layout/activity_main.xml" value="0.14145299145299145" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/layout/activity_spark_ai.xml" value="0.15256410256410258" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/layout/ai_response_item.xml" value="0.22" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/layout/attraction_card.xml" value="0.14145299145299145" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/layout/attraction_collect_card.xml" value="0.14145299145299145" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/layout/attraction_collect_layout.xml" value="0.14145299145299145" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/layout/details_page_layout.xml" value="0.14145299145299145" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/layout/fragment_mine.xml" value="0.14145299145299145" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/layout/fragment_spark_ai.xml" value="0.16666666666666666" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/layout/front_page_layout.xml" value="0.14145299145299145" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/layout/gaode_map_layout.xml" value="0.14145299145299145" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/layout/hotel_item_layout.xml" value="0.14145299145299145" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/layout/login_layout.xml" value="0.14145299145299145" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/layout/main_page_layout.xml" value="0.14145299145299145" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/layout/one_plan.xml" value="0.14145299145299145" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/layout/plan_layout.xml" value="0.14145299145299145" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/layout/sign_in_layout.xml" value="0.14145299145299145" />
+        <entry key="..\:/Desktop/课程（作业）/大三上/Andriod/Travelor/Travelor/app/src/main/res/layout/user_ask_item.xml" value="0.14145299145299145" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/add_edittext_border.xml" value="0.2171875" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/attraction_card.xml" value="0.22685185185185186" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/btn_bg_selector.xml" value="0.2712962962962963" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/btn_toggle_style.xml" value="0.22685185185185186" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/buy_button.xml" value="0.22685185185185186" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/circle_background.xml" value="0.22685185185185186" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/circle_border_shape.xml" value="0.22685185185185186" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/collect_card.xml" value="0.1752136752136752" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/dashed_line.xml" value="0.19270833333333334" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/dot_focus.xml" value="0.22685185185185186" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/dot_normal.xml" value="0.22685185185185186" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/edit_text_bg.xml" value="0.2712962962962963" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/edit_text_bg_focus.xml" value="0.2712962962962963" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/edittext_border.xml" value="0.22685185185185186" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/edittext_border_toggle.xml" value="0.1752136752136752" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/gradient_background.xml" value="0.22685185185185186" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22685185185185186" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/index_block.xml" value="0.2740740740740741" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/like_toggle_style.xml" value="0.22685185185185186" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/low_right_shadow.xml" value="0.2740740740740741" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/low_shadow.xml" value="0.2740740740740741" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/search_frame.xml" value="0.22685185185185186" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/sign_edittext_boder.xml" value="0.22685185185185186" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/sign_edittext_border.xml" value="0.1581196581196581" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/drawable/sign_in_frame.xml" value="0.22685185185185186" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/layout/activity_add.xml" value="0.22" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/layout/activity_edit_plan.xml" value="0.17239583333333333" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/layout/attraction_card.xml" value="0.22" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/layout/attraction_collect_card.xml" value="0.22" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/layout/attraction_collect_layout.xml" value="0.14666666666666667" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/layout/details_page_layout.xml" value="0.22" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/layout/fragment_mine.xml" value="0.16666666666666666" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/layout/fragment_plan.xml" value="0.32708333333333334" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/layout/front_page_layout.xml" value="0.1584258324924319" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/layout/gaode_map_layout.xml" value="0.18958333333333333" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/layout/hotel_item_layout.xml" value="0.27807971014492755" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/layout/login_layout.xml" value="0.1584258324924319" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/layout/main_page_layout.xml" value="0.14666666666666667" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/layout/one_plan.xml" value="0.22" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/layout/plan_layout.xml" value="0.22" />
+        <entry key="..\:/software/android/Travelor/app/src/main/res/layout/sign_in_layout.xml" value="0.3088768115942029" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvlogin"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:text="登录"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="#463434" />
+
+        <EditText
+            android:id="@+id/sign_account"
+            android:layout_width="300dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="10dp"
+            android:hint="账号"
+            android:paddingLeft="15dp"
+            android:textSize="12sp"
+            android:background="@drawable/sign_in_frame"
+            />
+
+        <EditText
+            android:id="@+id/username"
+            android:layout_width="300dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="15dp"
+            android:hint="昵称"
+            android:paddingLeft="15dp"
+            android:textSize="12sp"
+            android:background="@drawable/sign_in_frame"/>
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/verification_code"
+                android:layout_width="300dp"
+                android:layout_height="45dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/sign_in_frame"
+                android:hint="验证码"
+                android:paddingLeft="15dp"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/sent_VerifyCode"
+                android:layout_width="64dp"
+                android:layout_height="26dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginLeft="225dp"
+                android:text="获取验证码"
+                android:textSize="11sp"
+                android:textStyle="bold"
+                android:textColor="#48A57A"
+                android:background="@drawable/sign_edittext_border"/>
+
+        </FrameLayout>
+
+
+        <EditText
+            android:id="@+id/new_password"
+            android:layout_width="300dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="15dp"
+            android:hint="密码"
+            android:paddingLeft="15dp"
+            android:inputType="textPassword"
+            android:textSize="12sp"
+            android:background="@drawable/sign_in_frame"/>
+
+        <EditText
+            android:id="@+id/confirm_password"
+            android:layout_width="300dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="15dp"
+            android:hint="确认密码"
+            android:paddingLeft="15dp"
+            android:inputType="textPassword"
+            android:textSize="12sp"
+            android:background="@drawable/sign_in_frame"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="45dp">
+
+        <CheckBox
+            android:id="@+id/agree_check"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/agree_pact"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="同意协议"
+            android:textSize="11dp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/buttonSignIn"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:text="注册"
+        android:textColor="#48A57A"
+        android:textStyle="bold"
+        android:background="@drawable/sign_edittext_border"/>
+
+</LinearLayout>

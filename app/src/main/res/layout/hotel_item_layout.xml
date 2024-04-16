@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:elevation="8dp"
+    android:layout_margin="5dp"
+    android:id="@+id/hotel_card">
+
+    <ImageView
+        android:id="@+id/hotel_image"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/hotel1" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/hotel_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="浙江西子宾馆"
+                android:textStyle="bold"
+                android:textColor="@color/title_detail"
+                android:textSize="20dp"/>
+
+            <TextView
+                android:id="@+id/hotel_score"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="9.0"
+                android:layout_marginRight="10dp"
+                android:gravity="right"
+                android:textColor="#009688"
+                android:textStyle="bold"
+                android:textSize="18dp"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="4"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/hotel_rank"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="★★★★★ 五星级酒店"/>
+
+                <TextView
+                    android:id="@+id/hotel_location"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="0dp"
+                    android:text="浙江省 杭州市 南山路37号"
+                    android:textSize="18dp" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/hotel_price"
+                android:layout_width="0dp"
+                android:layout_height="57dp"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:gravity="bottom"
+                android:text="￥1399"
+                android:textColor="#A74848" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

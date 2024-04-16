@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#E3DDD5" /> <!-- 替换为您想要的背景颜色 -->
+    <corners android:radius="1000dp" />
+</shape>
