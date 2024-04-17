@@ -12,6 +12,12 @@
 ![image](https://github.com/Yaqu-qx/TravelerDemo/blob/master/images/%E5%9B%BE%E7%89%871.png)
 
 ### 界面效果
+<img src="https://github.com/Yaqu-qx/TravelerDemo/blob/master/images/%E5%9B%BE%E7%89%872.png" width="210px"> <img src="https://github.com/Yaqu-qx/TravelerDemo/blob/master/images/%E5%9B%BE%E7%89%873.png" width="210px"> <img src="https://github.com/Yaqu-qx/TravelerDemo/blob/master/images/%E5%9B%BE%E7%89%874.png" width="210px"> <img src="https://github.com/Yaqu-qx/TravelerDemo/blob/master/images/%E5%9B%BE%E7%89%875.png" width="210px">
+
+<img src="https://github.com/Yaqu-qx/TravelerDemo/blob/master/images/%E5%9B%BE%E7%89%876.png" width="210px"> <img src="https://github.com/Yaqu-qx/TravelerDemo/blob/master/images/%E5%9B%BE%E7%89%877.png" width="210px"> <img src="https://github.com/Yaqu-qx/TravelerDemo/blob/master/images/%E5%9B%BE%E7%89%878.png" width="210px"> <img src="https://github.com/Yaqu-qx/TravelerDemo/blob/master/images/%E5%9B%BE%E7%89%879.png" width="210px">
+
+<img src="https://github.com/Yaqu-qx/TravelerDemo/blob/master/images/%E5%9B%BE%E7%89%8710.png" width="210px"> <img src="https://github.com/Yaqu-qx/TravelerDemo/blob/master/images/%E5%9B%BE%E7%89%8711.png" width="210px"> <img src="https://github.com/Yaqu-qx/TravelerDemo/blob/master/images/%E5%9B%BE%E7%89%8712.png" width="210px"> <img src="https://github.com/Yaqu-qx/TravelerDemo/blob/master/images/%E5%9B%BE%E7%89%8713.png" width="210px">
+
 ### 系统组织架构
 系统组织架构类似于MVC，Layout文件定义了视图(View)层的界面布局，Activity和Fragment文件通常充当控制器（Controller）的角色，负责处理用户交互、视图的展示和更新。Adapter文件用于管理ListView或RecyclerView等列表组件的数据绑定SQLiteOpenHelper文件可能用于管理数据库操作，即模型（Model）层的数据存取和处理。
 
