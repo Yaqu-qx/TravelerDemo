@@ -19,7 +19,7 @@
 
 ### 环境
 经过安卓模拟器测试，畅游世界 APP 可以在 Android 7.0 和 Android 10.0 上兼容。 <br>
-但其中有一个问题是里面的ai功能主要接入了讯飞星火大模型的SDK，这个SDK要求的模拟器CUP框架必须在armeabi-v7a或arm64-va8，虽然我在armeabi-v7a和25api的模拟器环境下能够成功运行app,但是armeabi-v7a框架的模拟器运行的速度可以说是十分缓慢QAQ。<br>
+但其中有一个问题是里面的ai功能主要接入了讯飞星火大模型的SDK，这个SDK无法在模拟器为x86的CUP框架上兼容，框架要求是armeabi-v7a或arm64-va8，虽然我在armeabi-v7a框架的模拟器环境下能够成功运行app,但是使用armeabi-v7a框架模拟器运行的速度可以说是十分缓慢QAQ。<br>
 而将ai功能的代码注释掉后在x86的设备上是比较顺畅的
 
 ### 不足
